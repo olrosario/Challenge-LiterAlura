@@ -3,7 +3,7 @@
 ## DESCRIPCION 
 LiterAlura es una aplicación de catálogo de libros construida con Spring Boot que interactúa con la API de Gutendex para obtener y almacenar información sobre libros en una base de datos PostgreSQL. La aplicación permite buscar libros, guardarlos en la base de datos y visualizar los libros más descargados.
 
-![img_1.png](../../../Imagenes/img_1.png)
+![img_1.png](Imagenes/img_1.png)
 
 ## ¿Qué puedes hacer con Literalura?
 
@@ -32,7 +32,7 @@ LiterAlura es una aplicación de catálogo de libros construida con Spring Boot 
 - Instalar PostgreSQL y crear una base de datos para el proyecto.
 - Configurar el archivo application.properties con los detalles de la base de datos:
 
-- ![img.png](../../../Imagenes/img.png)
+- ![img.png](Imagenes/img.png)
 
 ## Estructura del Proyecto
 - src/main/java/com/example/literalura:
@@ -50,7 +50,7 @@ LiterAlura es una aplicación de catálogo de libros construida con Spring Boot 
 
 ## Menú:
 
-![img_2.png](../../../Imagenes/img_2.png)
+![img_2.png](Imagenes/img_2.png)
 
 Información almacenada en la Base de Datos de PostgresSQL ya consumida de la API-Gutendex:
 
