@@ -63,7 +63,8 @@ Información almacenada en la Base de Datos de PostgresSQL ya consumida de la AP
 
 
 ## Top 5 libros más descargados 
-![image](https://github.com/olrosario/Challenge-LiterAlura/assets/157546975/092d7fc6-1264-4168-92c2-c011d297b369)
+![image](https://github.com/olrosario/Challenge-LiterAlura/assets/157546975/06be31ce-4f07-4004-90b9-51ebbe98425d)
+
 
 ## Créditos
 Este Proyecto fue elaborado por Olga Rosario
